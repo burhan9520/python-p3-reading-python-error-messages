@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
+#!/usr/bin/env pytprint("hello_world")
+print("hello_world")
 
-print(hello_world)
